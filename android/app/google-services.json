@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "714230644269",
+    "project_id": "seniordating-b13a1",
+    "storage_bucket": "seniordating-b13a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714230644269:android:4d87846a6733707664c2a4",
+        "android_client_info": {
+          "package_name": "com.april21st1.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzDrlY628hecJgPoQoA48trD9LTOHzsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714230644269:android:0ac429984b24be6e64c2a4",
+        "android_client_info": {
+          "package_name": "com.april21st2.daintapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzDrlY628hecJgPoQoA48trD9LTOHzsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714230644269:android:480cd67c3714755864c2a4",
+        "android_client_info": {
+          "package_name": "com.dating_app2.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzDrlY628hecJgPoQoA48trD9LTOHzsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
